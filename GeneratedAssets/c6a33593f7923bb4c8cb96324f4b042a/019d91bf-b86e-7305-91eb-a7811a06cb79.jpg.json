@@ -1,0 +1,27 @@
+{
+    "asset": "c6a33593f7923bb4c8cb96324f4b042a",
+    "fileName": "019d91bf-b86e-7305-91eb-a7811a06cb79.jpg",
+    "prompt": "The word \"CHEMISTRY\" written in clean, bold, futuristic white text on a solid black background. Minimalist font. Center aligned.",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "43c2d06efbbbc8d501e266c5d091a6a5",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

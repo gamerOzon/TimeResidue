@@ -1,0 +1,4 @@
+repository "ProjetoFinalDeMestrado (1)/ProjetoFinalDeMestrado@6872790270789@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,27 @@
+{
+    "asset": "a1752ede9e0d7784fb353808a4f2b612",
+    "fileName": "019d24eb-2e8b-7c0d-9a98-fc3f8cb3f6e5.jpg",
+    "prompt": "a solid vibrant red square frame with perfectly sharp 90-degree corners, thin flat red lines, no gradients, no white edges, no shadows, minimalist, on a transparent background",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "11c6cfe6c5299d7075da66b90b539934",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

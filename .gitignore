@@ -1,0 +1,33 @@
+﻿# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/ProfilerCaptures/
+/.utmp/
+/.codex/
+/.claude/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+*.apk
+*.aab
+*.csproj
+*.sln
+.vs/
+.idea/
+ignore.conf
+
+# Third-party licensed assets (not redistributable)
+/Assets/Synty/
+/Assets/Synty.meta
+/Assets/PolygonParticleFX/
+/Assets/PolygonParticleFX.meta
+/Assets/Low-Poly Medieval Market/
+/Assets/Low-Poly Medieval Market.meta
+/Assets/IgniteCoders/
+/Assets/IgniteCoders.meta
+/Assets/_Recovery/
+/Assets/_Recovery.meta

@@ -1,0 +1,27 @@
+{
+    "asset": "fd3fb014b3e947841ab935cfb7090e65",
+    "fileName": "019d24e8-c2de-72c8-8872-3d6d59a34eb7.jpg",
+    "prompt": "a thin square red border on a transparent background, sharp edges, minimalist, game UI style",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "ec9b903a70d908a8082a2d625d1a6cf1",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
